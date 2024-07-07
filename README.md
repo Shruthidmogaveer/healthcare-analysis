@@ -71,6 +71,7 @@ A Power BI dashboard offering interactive visualizations and business intelligen
 A Tableau dashboard providing advanced data visualization to uncover insights from healthcare data.
 
 **Conclusion**
+
 The healthcare dashboard developed by Group 5 serves as a vital tool for monitoring hospital operations, financial performance, 
 and patient care. By leveraging key metrics like total discharge, patient days, and net patient revenue, the dashboard provides a 
 clear picture of operational efficiency and financial health. Additionally, it offers insights into regional performance and service analysis, aiding in strategic decision-making.
